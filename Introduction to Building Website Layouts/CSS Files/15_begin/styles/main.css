@@ -1,0 +1,36 @@
+body {
+  font-size: 19px;
+  font-family: "cronos-pro", calibri, candara, "segoe UI", Optima, Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: "double-pica-sc", Garamond, "Baskerville Old Face", "Times New Roman", serif;
+}
+
+h1 {
+  font-size: 3.3684em;
+  line-height: 1.2656em;
+  margin-top: 0.4219em;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  line-height: 1.2558em;
+  margin: 0.4219em auto 0.4219em auto;
+}
+
+h3 {
+  font-size: 1.5263em;
+  font-weight: normal;
+  line-height: 1.8621em;
+  margin-top: 0.9310em;
+  margin-bottom: 0;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.4211em;
+  margin-top: 1.4211em;
+  margin-bottom: 0;
+}
