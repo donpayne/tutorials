@@ -1,7 +1,7 @@
 # Getting Started with NodeJS
 ---
 
-- [Creating a GitHub Account](https://github.com/donpayne/tutorials/blob/master/nodejs/getting-started.md#creating-a-github-account)
+- [GitHub Account Signup](https://github.com/donpayne/tutorials/blob/master/nodejs/getting-started.md#github-account-signup)
 - [Git Installation and Configuration](https://github.com/donpayne/tutorials/blob/master/nodejs/getting-started.md#git-installation-and-configuration)
 - [SSH Key Generation](https://github.com/donpayne/tutorials/blob/master/nodejs/getting-started.md#ssh-key-generation)
 - [NodeJS Installation](https://github.com/donpayne/tutorials/blob/master/nodejs/getting-started.md#nodejs-installation)
@@ -17,7 +17,7 @@
 - [Abstractions and Reuse](https://github.com/donpayne/tutorials/blob/master/nodejs/getting-started.md#abstractions-and-reuse)
 - [Testing Patterns](https://github.com/donpayne/tutorials/blob/master/nodejs/getting-started.md#testing-patterns)
 
-## Creating a GitHub Account
+## GitHub Account Signup
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.  Signup for an account at [https://github.com](https://github.com).
 ![](https://github.com/donpayne/tutorials/raw/master/nodejs/img/github-signin1.png)
 
